@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "car",
+      "price": "715000"
+    },
+    {
+      "id": 3,
+      "title": "washing machine",
+      "price": "25000"
+    },
+    {
+      "id": 4,
+      "title": "LED",
+      "price": "10000"
+    },
+    {
+      "id": 5,
+      "title": "laptop",
+      "price": "55000"
+    },
+    {
+      "id": 6,
+      "title": "bike",
+      "price": "85000"
+    },
+    {
+      "id": 7,
+      "title": "juicer",
+      "price": "5000"
+    },
+    {
+      "id": 8,
+      "title": "iron",
+      "price": "3000"
+    },
+    {
+      "title": "First Item",
+      "price": "90",
+      "id": 9
+    },
+    {
+      "title": "Title 2",
+      "price": "10",
+      "id": 10
+    }
+  ]
+}
