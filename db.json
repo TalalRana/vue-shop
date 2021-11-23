@@ -1,38 +1,23 @@
 {
   "products": [
     {
-      "id": 2,
-      "title": "car",
-      "price": "715000"
-    },
-    {
-      "id": 3,
-      "title": "washing machine",
-      "price": "25000"
-    },
-    {
-      "id": 4,
-      "title": "LED",
-      "price": "10000"
-    },
-    {
       "id": 5,
-      "title": "laptop",
+      "title": "Laptop",
       "price": "55000"
     },
     {
       "id": 6,
-      "title": "bike",
+      "title": "Bike",
       "price": "85000"
     },
     {
       "id": 7,
-      "title": "juicer",
+      "title": "Juicer",
       "price": "5000"
     },
     {
       "id": 8,
-      "title": "iron",
+      "title": "Iron",
       "price": "3000"
     },
     {
@@ -41,8 +26,8 @@
       "id": 9
     },
     {
-      "title": "Title 2",
-      "price": "10",
+      "title": "Second Item",
+      "price": "100",
       "id": 10
     }
   ]

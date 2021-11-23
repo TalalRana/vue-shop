@@ -25,7 +25,8 @@ const actions = {
 const mutations = {
     setProducts: (state, products) =>  (state.products = products),
     newProduct: (state, product)  => state.products.unshift(product),
-    removeProduct: (state,id) => (state.products.filter(product => product.id !== id ))
+    removeProduct: (state, id) =>
+        (state.products = state.products.filter(product => product.id !== id))
 };
 
 export default {
